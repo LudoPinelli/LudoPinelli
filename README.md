@@ -1,4 +1,4 @@
-<h3 align="center">Hobbyist</h3>
+<h3>Hobbyist</h3>
 
 | Editor | Languages | OS |
 |---|---|---|
